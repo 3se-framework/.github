@@ -1,1 +1,1 @@
-# .github
+# 3SE organization
