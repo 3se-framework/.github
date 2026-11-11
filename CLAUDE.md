@@ -36,6 +36,7 @@ Before answering questions about 3SE concepts, terminology, or structure, check 
 
 ### 3SE terminology
 - **Always use the full definition** of a 3SE term as it appears in `3se-onto`. Never paraphrase, shorten, or truncate it. If the full definition is needed, read it from the ontology rather than relying on memory.
+- Check the whole entry, not only `description`: also its `subClassOf`, matches (`exactMatch`, `closeMatch`, `broadMatch`, `narrowMatch`, `relatedMatch`) and notes.
 
 ### 3SE consistency
 - **After any modification** to a 3SE repository, check that the change is consistent with the other 3SE repositories: `3se-onto`, `3se-skill`, `3se-mcp`, `3se-mcp-eval`, `3se-position-paper`, `3se-talk`, `3se-method-explained`. Flag any inconsistency before closing the task.
